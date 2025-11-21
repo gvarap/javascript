@@ -1,0 +1,1 @@
+// This app requires , crazy arrays skills , like for each , slick etc.. 
